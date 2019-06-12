@@ -3,6 +3,7 @@
 ## ※Modified version
 ### Modification point
 1.Remove function to hide menu automatically(As it was considerably inconvenient to smartphone)
+
 2.Add language switch link
 
 ___
