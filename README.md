@@ -1,12 +1,5 @@
 # Hugo theme Hermit
 
-## ※Modified version
-### Modification point
-1.Remove function to hide menu automatically(As it was considerably inconvenient to smartphone)
-
-2.Add language switch link
-
-___
 [![Netlify Status](https://api.netlify.com/api/v1/badges/01a2e2de-d57d-4d89-8322-95685000e60f/deploy-status)](https://app.netlify.com/sites/hugo-theme-hermit/deploys)
 
 Hermit is a minimal and fast theme for Hugo. It's built for bloggers who want a simple and focused website.

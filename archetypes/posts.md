@@ -1,9 +1,11 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
 toc: false
-images:
+comment: ture
+description: ここに概要
+images: 
+  - avater2.png
 tags: 
   - untagged
 ---
