@@ -33,3 +33,14 @@ other = "Menu"
 
 [featuredImage]
 other = "Featured Image"
+
+# index.html
+#
+[disclaimer]
+other = "免責事項"
+
+[privacy]
+other = "プライバシーポリシー"
+
+[issues]
+other = "issues(サイト不具合･要望等はこちら)"

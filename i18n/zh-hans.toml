@@ -33,3 +33,14 @@ other = "菜单"
 
 [featuredImage]
 other = "特色图片"
+
+# index.html
+#
+[disclaimer]
+other = "免除责任"
+
+[privacy]
+other = "隐私政策"
+
+[issues]
+other = "issues"

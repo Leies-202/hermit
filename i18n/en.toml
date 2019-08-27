@@ -33,3 +33,14 @@ other = "Menu"
 
 [featuredImage]
 other = "Featured Image"
+
+# index.html
+#
+[disclaimer]
+other = "disclaimer"
+
+[privacy]
+other = "PrivacyPolicy"
+
+[issues]
+other = "issues"
