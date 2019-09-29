@@ -6,6 +6,9 @@
 [notFound]
 other = "Oops, page not found…"
 
+[notaccess]
+other = "You don't have permission to access this resource."
+
 [home]
 other = "Home"
 

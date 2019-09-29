@@ -6,6 +6,9 @@
 [notFound]
 other = "お探しのページは見つかりませんでした…"
 
+[notaccess]
+other = "あなたはこのページにアクセスする許可がありません。お戻りください。"
+
 [home]
 other = "TOP"
 

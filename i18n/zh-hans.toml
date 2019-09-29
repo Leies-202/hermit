@@ -6,6 +6,9 @@
 [notFound]
 other = "糟糕，您要访问的页面不存在……"
 
+[notaccess]
+other = "You don't have permission to access this resource."
+
 [home]
 other = "主页"
 
