@@ -28,11 +28,6 @@ const listen = (ele, e, callback) => {
  * Functions
  */
 
-// Auto Hide Header
-//
-let header = document.getElementById('site-header');
-let lastScrollPosition = window.pageYOffset;
-
 // Mobile Menu Toggle
 //
 let mobileMenuVisible = false;
@@ -81,6 +76,7 @@ if (header !== null) {
   });
 
   window.addEventListener('scroll', throttle(() => {
+    autoHideHeader();
 
     if (mobileMenuVisible == true) {
       toggleMobileMenu();

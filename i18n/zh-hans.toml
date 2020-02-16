@@ -6,9 +6,6 @@
 [notFound]
 other = "糟糕，您要访问的页面不存在……"
 
-[notaccess]
-other = "You don't have permission to access this resource."
-
 [home]
 other = "主页"
 
@@ -17,6 +14,9 @@ other = "归档"
 
 # posts/single.html
 #
+[seeAlso]
+other = "相关推荐"
+
 [wordCount]
 other = "{{ .WordCount }} 字"
 
@@ -36,14 +36,3 @@ other = "菜单"
 
 [featuredImage]
 other = "特色图片"
-
-# index.html
-#
-[disclaimer]
-other = "免除责任"
-
-[privacy]
-other = "隐私政策"
-
-[issues]
-other = "issues"
